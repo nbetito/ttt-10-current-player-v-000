@@ -6,6 +6,6 @@ counter = 0
     if position != " "
         counter += 1
       end
-puts counter
   end
+counter
 end
