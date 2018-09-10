@@ -7,6 +7,7 @@ counter = 0
         counter += 1
       end
   end
+puts counter
 end
 
 
